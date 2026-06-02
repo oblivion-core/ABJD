@@ -9,15 +9,13 @@
 
 ---
 
-## 📸 Screenshots
-
 | Login & Registration | Dashboard |
 |---|---|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
+| ![Login](https://raw.githubusercontent.com/oblivion-core/ABJD/main/Screenshot%20(1013).png) | ![Dashboard](https://raw.githubusercontent.com/oblivion-core/ABJD/main/Screenshot%20(1014).png) |
 
 | Session Setup | Child Profiles |
 |---|---|
-| ![Session](screenshots/session.png) | ![Kids](screenshots/kids.png) |
+| ![Session](https://raw.githubusercontent.com/oblivion-core/ABJD/main/Screenshot%20(1016).png) | ![Kids](https://raw.githubusercontent.com/oblivion-core/ABJD/main/Screenshot%20(1017).png) |
 
 ---
 
