@@ -3,10 +3,6 @@
 > *"Apprentissage moderne pour vos enfants"*  
 > Modern learning for your children — track sessions, results, and progress in one place.
 
-🔗 **Live app:** [abjd-app.vercel.app](https://abjd-app.vercel.app/login)
-
-> ⚠️ This is a private startup project. Source code is not public.
-
 ---
 
 | Login & Registration | Dashboard |
